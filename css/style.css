@@ -83,7 +83,7 @@ span {
 }
 
 .text {
-	font-family: "Montserrat" sans-serif;
+	font-family: "Montserrat", sans-serif;
 	font-weight: 300;
 	text-indent: 30px;
 	line-height: 1.5;
